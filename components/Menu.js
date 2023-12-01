@@ -25,7 +25,7 @@ const DpMenu = (props) => {
     },
     {
       title: "Widget Configuration",
-      to: "#"
+      to: "/configuration"
     },
     {
       title: "Deployment",
